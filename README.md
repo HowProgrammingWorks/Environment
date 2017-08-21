@@ -46,3 +46,18 @@
 
   - Примерно такое:
   [github.com/HowProgrammingWorks/Project](https://github.com/HowProgrammingWorks/Project)
+
+## Полезные ссылки
+
+  - Все примеры можно будет брать в нашей организации: http://how.programming.works
+  - Разработки нашего КБ Metarhis тут: http://metarhia.com
+
+## Мои контакты и профили
+
+  - на Github: https://github.com/tshemsedinov
+  - на Habrahabr: https://habrahabr.ru/users/marcusaurelius/
+  - на LinkedIn: https://www.linkedin.com/in/shemsedinov/
+  - на NPM: https://www.npmjs.com/~timur.shemsedinov
+  - на Facebook: https://www.facebook.com/tshemsedinov
+  - на Instagram: https://www.instagram.com/tshemsedinov/
+  - на Twitter: https://twitter.com/ImpressAppSrv
