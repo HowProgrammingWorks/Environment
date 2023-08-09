@@ -7,10 +7,10 @@
   его команд и можете приступать к следующему пункту
   - Возможно, будет предложено его установить, соглашайтесь
   - Или Вы увидите ошибку, тогда нужно следовать
-  [инструкции с сайта git](https://git-scm.com/book/ru/v1/Введение-Установка-Git)
+  [инструкции с сайта git](https://git-scm.com/book/ru/v2/Введение-Установка-Git)
 - Теперь нужно изучить команды, почитать документацию
   - Краткую и простую шпаргалку по командам `git` можно
-  [найти тут](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+  [найти тут](https://training.github.com/downloads/ru/github-git-cheat-sheet/)
   - А тут мы собрали для Вас все необходимые материалы для глубокого изучения:
   [HowProgrammingWorks/VersionControl](https://github.com/HowProgrammingWorks/VersionControl/blob/master/README.ru.md)
 - Зарегистрируйтесь [на github](https://github.com/)
@@ -34,13 +34,13 @@
   - Пакетный менеджер `npm` и веб-каталог пакетов тут [npmjs.com](https://www.npmjs.com/)
   - Добавьте зависимость, например: `npm install metasync`
   - Добавьте в проект файлы: `.npmignore` и `.gitignore` их примеры можно взять
-  тут: [.npmignore](https://github.com/metarhia/metasync/blob/master/.npmignore)
+  тут: [.npmignore](https://github.com/metarhia/impress/blob/master/.npmignore)
   и [.gitignore](https://github.com/metarhia/metasync/blob/master/.gitignore)
 
 ## Установите и настройте eslint
 
   - Сайт и инструкция по установке: [eslint](https://eslint.org/)
-  - [Пример конфигурации](https://github.com/HowProgrammingWorks/Tools/blob/master/JavaScript/examples/.eslintrc.yml)
+  - [Пример конфигурации](https://github.com/HowProgrammingWorks/Tools/blob/master/JavaScript/examples/.eslintrc.json)
 
 ## Что должно получиться
 
@@ -50,7 +50,7 @@
 ## Полезные ссылки
 
   - Все примеры можно будет брать в нашей организации: http://how.programming.works
-  - Разработки нашего КБ Metarhia тут: http://metarhia.com
+  - Разработки нашего КБ Metarhia тут: http://metarhia.com / https://github.com/metarhia
 
 ## Мои контакты и профили
 
@@ -60,4 +60,4 @@
   - на NPM: https://www.npmjs.com/~timur.shemsedinov
   - на Facebook: https://www.facebook.com/tshemsedinov
   - на Instagram: https://www.instagram.com/tshemsedinov/
-  - на Twitter: https://twitter.com/ImpressAppSrv
+  - на Twitter: https://twitter.com/tshemsedinov
