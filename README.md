@@ -5,11 +5,11 @@
 - Откройте командную строку и напишите `git`
   - Скорее всего git уже установлен, тогда Вы увидите справку по использованию
   его команд и можете приступать к следующему пункту
-  - Возможно, будет предложено его устаносить, соглашайтесь
+  - Возможно, будет предложено его установить, соглашайтесь
   - Или Вы увидите ошибку, тогда нужно следовать
   [инструкции с сайта git](https://git-scm.com/book/ru/v1/Введение-Установка-Git)
-- Теперь нужно изучить конанды, почитать документацию
-  - Краткую и простую шпоргалку по конандам `git` можно
+- Теперь нужно изучить команды, почитать документацию
+  - Краткую и простую шпаргалку по командам `git` можно
   [найти тут](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
   - А тут мы собрали для Вас все необходимые материалы для глубокого изучения:
   [HowProgrammingWorks/VersionControl](https://github.com/HowProgrammingWorks/VersionControl/blob/master/README.ru.md)
@@ -17,7 +17,7 @@
   - И создайте свой пробный репозиторий
   - Склонируйте его к себе на машину через `git clone <url>`
   - Попробуйте сделать: `branch, add, commit, push`
-  - Попробуйте сделать: `pull request, merge` (через веб интерфейс)
+  - Попробуйте сделать: `pull request, merge` (через веб-интерфейс)
   - Потом осваивайте разрешение конфликтов для: `merge, cherry-pick, rebase`
   - Посмотрите на другие возможности веб-интерфейса github: `issues, projects, insights`
 
@@ -33,8 +33,8 @@
   - Добавьте в проект `package.json` при помощи `npm init`
   - Пакетный менеджер `npm` и веб-каталог пакетов тут [npmjs.com](https://www.npmjs.com/)
   - Добавьте зависимость, например: `npm install metasync`
-  - Добавьте в проект файлы: `.npmignore` и `.gitignore` из примеры можно взять
-  в тут: [npmignore](https://github.com/metarhia/metasync/blob/master/.npmignore)
+  - Добавьте в проект файлы: `.npmignore` и `.gitignore` их примеры можно взять
+  тут: [.npmignore](https://github.com/metarhia/metasync/blob/master/.npmignore)
   и [.gitignore](https://github.com/metarhia/metasync/blob/master/.gitignore)
 
 ## Установите и настройте eslint
@@ -50,7 +50,7 @@
 ## Полезные ссылки
 
   - Все примеры можно будет брать в нашей организации: http://how.programming.works
-  - Разработки нашего КБ Metarhis тут: http://metarhia.com
+  - Разработки нашего КБ Metarhia тут: http://metarhia.com
 
 ## Мои контакты и профили
 
